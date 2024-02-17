@@ -24,8 +24,7 @@ const Projects: React.FC<colorSchemeProps> = ({ currentColorScheme }) => {
       imageSrc: flashcard,
       description:
         "A flashcard maker mini app that allows users to upload flashcard data from an Excel file and practice with interactive flip cards.",
-      githubLink:
-        "https://github.com/emel-kayaci/uni-projects/tree/main/Third%20Grade/AirlineDB",
+      githubLink: "https://github.com/emel-kayaci/flashcard-maker",
       demoLink: "https://flashcard-maker.vercel.app/",
     },
     {
